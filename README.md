@@ -1,6 +1,6 @@
 # solana-wallet-drainer1
 
-Solana wallets auto transfer, anti detect bypassed
+Solana wallets auto transfer, anti red page detect bypassed
 
 contact developer - https://t.me/solana_drain_wallet
 
